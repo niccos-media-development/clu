@@ -14921,3 +14921,7 @@ header .header-scrolled .header__corner path:last-child, .header-scrolled .heade
 .product-card .media {
   background-color : black;
 }
+
+.product-card .product-card__content {
+  background-color : white;
+}
