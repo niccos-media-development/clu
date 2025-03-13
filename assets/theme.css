@@ -14916,6 +14916,7 @@ header .header-scrolled .header__corner path:last-child, .header-scrolled .heade
   background-color : transparent;
 }
 
+.product-card,
 .product-card .product-card__media,
 .product-card .media {
   background-color : black;
