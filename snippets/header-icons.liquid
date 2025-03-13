@@ -25,6 +25,7 @@
 -%}
 
 <div class="header__icons header__icons--{{ dir }} flex justify-{{ dir }} z-2">
+  <div class="transcy-switcher-manual transcy-desktop hidden"></div>
   <div class="header__buttons flex items-center gap-1d5">
     {%- if show_toggle -%}
       <button class="menu-toggle-button hidden lg:flex items-center justify-center" type="button" is="menu-toogle" aria-controls="MenuToggle" aria-expanded="false">
