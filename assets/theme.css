@@ -14929,3 +14929,7 @@ header .header-scrolled .header__corner path:last-child, .header-scrolled .heade
 .mega-menu__nav a.media {
   background-color : transparent;
 }
+
+header .header__corner {
+  display : none;
+}
