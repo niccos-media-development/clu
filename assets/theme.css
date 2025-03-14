@@ -14942,3 +14942,7 @@ header .header__corner {
 .localization .dropdown__nav a.active {
   opacity : 1;
 }
+
+.drawer__footer-bottom .social_platform svg {
+  width : 30px;
+}
