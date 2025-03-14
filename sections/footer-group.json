@@ -124,7 +124,7 @@
       ],
       "custom_css": [
         "@media screen and (min-width: 768px) {.footer__item--text_hHEF6f.details.active {width: 200px; }}",
-        ".twitter {width: 30px;}"
+        ".twitter {width: 30px; height:30px;}"
       ],
       "settings": {
         "invert_newsletter_others": false,
