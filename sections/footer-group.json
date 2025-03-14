@@ -123,7 +123,8 @@
         "link_list-1"
       ],
       "custom_css": [
-        "@media screen and (min-width: 768px) {.footer__item--text_hHEF6f.details.active {width: 200px; }}"
+        "@media screen and (min-width: 768px) {.footer__item--text_hHEF6f.details.active {width: 200px; }}",
+        ".twitter {width: 30px;}"
       ],
       "settings": {
         "invert_newsletter_others": false,
@@ -151,7 +152,7 @@
     "footer-copyright": {
       "type": "footer-copyright",
       "custom_css": [
-        ".rte.credits.text-center .flex-wrap {display:none !important}"
+        ".rte.credits.text-center .flex-wrap {display: none !important;}"
       ],
       "settings": {
         "enable_language_selector": true,
