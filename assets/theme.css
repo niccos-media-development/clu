@@ -14933,3 +14933,7 @@ header .header-scrolled .header__corner path:last-child, .header-scrolled .heade
 header .header__corner {
   display : none;
 }
+
+.list-collection .card .media {
+  background-color : black;
+}
