@@ -14938,3 +14938,7 @@ header .header__corner {
 .list-collection .card .media {
   background-color : black;
 }
+
+.localization .dropdown__nav a.active {
+  opacity : 1;
+}
