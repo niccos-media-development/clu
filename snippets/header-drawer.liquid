@@ -77,7 +77,8 @@
               <button type="button" class="flex gap-3 grow items-center justify-between" aria-controls="LocalizationCountry-{{ section.id }}" aria-expanded="false"> 
                 <span class="text-sm leading-none flex items-center gap-2 w-auto">
                   {%- render 'icon', icon: 'currency', size: 'xs', class: 'stroke-1 hidden md:block shrink-0' -%}
-                  {{- localization.country.name }} ({{ localization.country.currency.symbol }})
+                  {{ localization.country.currency.symbol }}
+                  <!-- {{- localization.country.name }} ({{ localization.country.currency.symbol }}) -->
                 </span>
                 {%- render 'icon', icon: 'chevron-down', size: 'xs', class: 'flex-auto' -%}
               </button>
@@ -140,7 +141,8 @@
                             title="{{ country.name | escape }} ({{ country.currency.symbol }})"
                             data-no-instant
                           >
-                            {{- country.name }} ({{ country.currency.symbol }})
+                            {{ country.currency.symbol }}
+                            <!-- {{- country.name }} ({{ country.currency.symbol }}) -->
                           </a>
                         </li>
                       {%- endfor -%}
