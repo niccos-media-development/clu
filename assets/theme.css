@@ -14934,6 +14934,7 @@ header .header__corner {
   display : none;
 }
 
+.list-collection .card,
 .list-collection .card .media {
   background-color : black;
 }
