@@ -105,7 +105,8 @@
                         </span>
                       {%- endif -%}
                       {%- if show_country_name -%}
-                        {{- localization.country.name }} ({{ localization.country.currency.iso_code }} {{ localization.country.currency.symbol }})
+                        {{- localization.country.name }} ({{ localization.country.currency.symbol }})
+                        <!-- {{- localization.country.name }} ({{ localization.country.currency.iso_code }} {{ localization.country.currency.symbol }}) -->
                       {%- else -%}
                         <span class="whitespace-nowrap">
                           {{- localization.country.currency.iso_code }} {{ localization.country.currency.symbol -}}
