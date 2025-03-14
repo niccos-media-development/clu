@@ -150,6 +150,9 @@
     },
     "footer-copyright": {
       "type": "footer-copyright",
+      "custom_css": [
+        ".rte.credits.text-center .flex-wrap {display:none !important}"
+      ],
       "settings": {
         "enable_language_selector": true,
         "enable_country_selector": true,
