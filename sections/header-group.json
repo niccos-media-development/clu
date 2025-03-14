@@ -134,7 +134,7 @@
         "sticky_header_type": "always",
         "enable_language_selector_desktop": true,
         "enable_country_selector_desktop": true,
-        "show_country_name_dekstop": false,
+        "show_country_name_dekstop": true,
         "show_country_flag_desktop": true,
         "logo_position_mobile": "center",
         "show_social": true,
