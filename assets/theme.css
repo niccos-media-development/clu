@@ -14944,5 +14944,6 @@ header .header__corner {
 }
 
 .drawer__footer-bottom .social_platform svg {
-  width : 30px;
+  width : 25px;
+  height : auto;
 }
