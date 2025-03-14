@@ -14,10 +14,10 @@
 {%- endcomment -%}
 
 {%- liquid
-  if section.settings.enable_language_selector_desktop and localization.available_languages.size > 1
+  if section.settings.enable_language_selector_desktop and localization.available_languages.size > 0
     assign enable_language_selector = true
   endif
-  if section.settings.enable_country_selector_desktop and localization.available_countries.size > 1
+  if section.settings.enable_country_selector_desktop and localization.available_countries.size > 0
     assign enable_country_selector = true
     assign show_country_name = section.settings.show_country_name_dekstop
     assign show_country_flag = section.settings.show_country_flag_desktop
