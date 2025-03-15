@@ -24,6 +24,79 @@
         "rounded": false
       }
     },
+    "rich_text_a9dJ4f": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jTKDhN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unsere Dienstleistungen:",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_DJczB8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Maßgeschneiderte Lösungen für Ihr Unternehmen<br/>* Gebrauchte Softwarelizenzen: Hochwertige, geprüfte Softwarelizenzen mit voller Leistung zu günstigeren Preisen.<br/>* Ankauf ungenutzter Lizenzen: Verwandeln Sie ungenutzte Lizenzen in Kapital und unterstützen Sie die Kreislaufwirtschaft.<br/>* Neue Lizenzen mit Preisvorteil: Nutzen Sie unser Netzwerk für preisgünstige, neue Softwarelizenzen.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_Q8VKjr": {
+          "type": "button",
+          "settings": {
+            "button_label": "Jetzt einkaufen",
+            "button_link": "shopify://collections/shop",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_jTKDhN",
+        "text_DJczB8",
+        "button_Q8VKjr"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "#000000",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
     "image_with_text_LdkbhX": {
       "type": "image-with-text",
       "blocks": {
@@ -201,6 +274,7 @@
   },
   "order": [
     "main-page",
+    "rich_text_a9dJ4f",
     "image_with_text_LdkbhX",
     "image_with_text_zTLFnC",
     "image_with_text_y37kkT"
