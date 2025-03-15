@@ -14947,3 +14947,8 @@ header .header__corner {
   width : 25px;
   height : auto;
 }
+
+twitter {
+  width: 30px;
+  height: 30px;
+}
