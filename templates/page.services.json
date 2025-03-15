@@ -30,7 +30,7 @@
         "heading_Y3kzLA": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Unsere Mission",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -40,7 +40,7 @@
         "text_bCVB9W": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Unser Ziel ist es, Unternehmen dabei zu helfen, ihre IT-Ressourcen effizient zu nutzen und die Digitalisierung nachhaltig voranzutreiben. Mit dem Wiederverkauf von Softwarelizenzen fördern wir die Kreislaufwirtschaft und reduzieren die Umweltbelastung.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -55,6 +55,7 @@
         "text_bCVB9W"
       ],
       "settings": {
+        "image": "shopify://shop_images/IMG_4662.jpg",
         "image_height": "700px",
         "image_width": "medium",
         "layout": "image_first",
@@ -87,7 +88,7 @@
         "heading_mFfTHN": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Unsere Vision: Digitalisierung mit Verantwortung",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -97,7 +98,7 @@
         "text_TnW4dd": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Wir sind überzeugt, dass Digitalisierung und Nachhaltigkeit Hand in Hand gehen. Durch innovative Ansätze und ein starkes Partnernetzwerk treiben wir digitale Transformation voran, ohne Kompromisse bei der Nachhaltigkeit einzugehen.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -112,6 +113,7 @@
         "text_TnW4dd"
       ],
       "settings": {
+        "image": "shopify://shop_images/IMG_2846.jpg",
         "image_height": "700px",
         "image_width": "medium",
         "layout": "text_first",
@@ -144,7 +146,7 @@
         "heading_FXcwny": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Erfolgsgeschichten: Wie unsere Kunden profitieren",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -154,7 +156,7 @@
         "text_CgPXkn": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>* KMU-Effizienz: Ein mittelständisches Unternehmen konnte durch unsere gebrauchten Softwarelizenzen seine IT-Kosten um 30% senken.<br/>* Start-up-Erfolg: Ein Start-up verkaufte ungenutzte Lizenzen gewinnbringend und investierte in neue Technologien.<br/>* Nachhaltige IT für Großunternehmen: Ein Konzern setzte unsere Lösungen ein, um brachliegende IT-Ressourcen effizient zu nutzen und die Umweltbelastung zu minimieren.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -169,6 +171,7 @@
         "text_CgPXkn"
       ],
       "settings": {
+        "image": "shopify://shop_images/IMG_2847.jpg",
         "image_height": "700px",
         "image_width": "medium",
         "layout": "image_first",
