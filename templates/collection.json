@@ -30,12 +30,22 @@
           "settings": {
             "title_size": "title-xl"
           }
+        },
+        "description_3UVXMT": {
+          "type": "description",
+          "settings": {
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false
+          }
         }
       },
       "block_order": [
         "spacing",
         "breadcrumb",
-        "title"
+        "title",
+        "description_3UVXMT"
       ],
       "settings": {
         "transparent_header": true,
