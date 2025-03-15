@@ -156,13 +156,47 @@
         "rounded": false
       }
     },
+    "featured_collection_tEYicG": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "anwendungen",
+        "products": [],
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Unsere Bestseller",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "#ffffff",
+        "color_background": "#000000",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "rich_text_HpNgeX": {
       "type": "rich-text",
       "blocks": {
         "heading_jRQDbx": {
           "type": "heading",
           "settings": {
-            "heading": "Effiziente Softwarelösungen für Ihr Unternehmen",
+            "heading": "Unser Shop",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -172,7 +206,7 @@
         "text_hpqTUE": {
           "type": "text",
           "settings": {
-            "text": "<p>Hier finden Sie eine Vielzahl an neuen und gebrauchten Softwarelizenzen, darunter Microsoft-Produkte wie Windows Server, SQL Server und Microsoft Office. Alle unsere Lizenzen sind gesetzeskonform und bieten die gleiche Leistung wie neue Produkte – zu einem Bruchteil der Kosten.</p>",
+            "text": "<p>Effiziente Softwarelösungen für Ihr Unternehmen<br/><br/>Hier finden Sie eine Vielzahl an neuen und gebrauchten Softwarelizenzen, darunter Microsoft-Produkte wie Windows Server, SQL Server und Microsoft Office. Alle unsere Lizenzen sind gesetzeskonform und bieten die gleiche Leistung wie neue Produkte – zu einem Bruchteil der Kosten.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -214,40 +248,6 @@
         "padding_bottom": 100,
         "divider": false,
         "narrow": true,
-        "rounded": false
-      }
-    },
-    "featured_collection_tEYicG": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "anwendungen",
-        "products": [],
-        "product_limit": 6,
-        "columns": 4,
-        "carousel_on_desktop": true,
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "heading": "Unsere Bestseller",
-        "heading_size": "title-md",
-        "heading_alignment": "text-center md:items-center",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "#ffffff",
-        "color_background": "#000000",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
         "rounded": false
       }
     },

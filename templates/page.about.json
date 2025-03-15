@@ -88,7 +88,7 @@
         "heading_RqMK4B": {
           "type": "heading",
           "settings": {
-            "heading": "Unser Ansatz: Effizienz trifft Nachhaltigkeit",
+            "heading": "Warum Clu Media GmbH?",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -98,7 +98,7 @@
         "text_HfBMf7": {
           "type": "text",
           "settings": {
-            "text": "<p>In der heutigen schnelllebigen Geschäftswelt ist es entscheidend, IT-Ressourcen effizient und nachhaltig zu nutzen. Bei Clu Media GmbH kombinieren wir beides:</p><p><strong>Intelligentes Lizenzmanagement</strong>, das IT-Budgets optimiert und Ressourcen schont.</p><p><strong>Zirkuläre Wirtschaft</strong>, die durch Kauf und Verkauf von gebrauchten Softwarelizenzen Abfall reduziert und Kapital freisetzt.</p><h3></h3>",
+            "text": "<p>Wir verstehen die Herausforderungen der IT-Budgetverwaltung und stehen Ihnen als langfristiger Partner zur Seite. Durch unser Netzwerk erhalten Sie Zugang zu kosteneffizienten und nachhaltigen Softwarelösungen.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -113,68 +113,10 @@
         "text_HfBMf7"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_2846.jpg",
+        "image": "shopify://shop_images/IMG_4566.jpg",
         "image_height": "700px",
         "image_width": "medium",
         "layout": "image_first",
-        "text_alignment": "left",
-        "content_position": "align-self-center",
-        "image_height_mobile": "auto",
-        "text_alignment_mobile": "left",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_background_2": "",
-        "gradient_background_2": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
-        "rounded": false,
-        "enable_parallax": true,
-        "parallax_direction": "vertical"
-      }
-    },
-    "image_with_text_zymPAy": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_A9jmFT": {
-          "type": "heading",
-          "settings": {
-            "heading": "Erfolgsgeschichten: Wie unsere Kunden profitieren",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_6GkJGW": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>KMU-Effizienz:</strong> Ein mittelständisches Unternehmen konnte durch unsere gebrauchten Softwarelizenzen seine IT-Kosten um 30% senken.</p><p><strong>Start-up-Erfolg:</strong> Ein Start-up verkaufte ungenutzte Lizenzen gewinnbringend und investierte in neue Technologien.</p><p><strong>Nachhaltige IT für Großunternehmen:</strong> Ein Konzern setzte unsere Lösungen ein, um brachliegende IT-Ressourcen effizient zu nutzen und die Umweltbelastung zu minimieren.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "heading_A9jmFT",
-        "text_6GkJGW"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/IMG_0237.jpg",
-        "image_height": "700px",
-        "image_width": "medium",
-        "layout": "text_first",
         "text_alignment": "left",
         "content_position": "align-self-center",
         "image_height_mobile": "auto",
@@ -202,7 +144,6 @@
   "order": [
     "main",
     "image_with_text_r7LJdw",
-    "image_with_text_Y8gnBQ",
-    "image_with_text_zymPAy"
+    "image_with_text_Y8gnBQ"
   ]
 }
