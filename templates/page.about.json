@@ -1,1 +1,90 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"heading_size":"title-xl tracking-heading","heading_alignment":"text-left","heading_tag":"h1","text_size":"text-base","padding_top":72,"padding_bottom":120,"divider":false,"narrow":true,"rounded":false}},"image_with_text_r7LJdw":{"type":"image-with-text","blocks":{"heading_xpFcTT":{"type":"heading","settings":{"heading":"Über uns","heading_size":"title-md","heading_tag":"h2","highlighted_text":"none","highlighted_scribble":"circle"}},"text_Tz7BYg":{"type":"text","settings":{"text":"<p>Smar te Softwarelösungen für effiziente IT-Budgets. Willkommen bei Clu Media GmbH – Ihrem verlässlichen Partner für flexible Softwarelösungen. Wir sind spezialisiert auf den Verkauf und Ankauf vo Softwarelizenzen und unterstützen Unternehme dabei, ihre IT-Budgets effizient zu nutzen. Egal ob Si neue oder gebrauchte Software suchen, wir biete Ihnen kostengünstige und nachhaltige Lösungen, u Ihre geschäft lichen Anforderungen zu er füllen Entdecken Sie jetzt, wie wir Ihr Unternehme unterstützen können, smarter in IT zu investieren.<\/p>","text_size":"subtext-md","text_max_size":32,"text_font":"body","secondary_color":false,"highlighted_text":"none","highlighted_scribble":"circle"}}},"block_order":["heading_xpFcTT","text_Tz7BYg"],"settings":{"image":"shopify:\/\/shop_images\/IMG_4236.jpg","image_height":"700px","image_width":"medium","layout":"text_first","text_alignment":"left","content_position":"align-self-center","image_height_mobile":"auto","text_alignment_mobile":"left","color_text":"","color_background":"","gradient_background":"","color_background_2":"","gradient_background_2":"","color_highlight":"","gradient_highlight":"","color_button_text":"","color_button_background":"","color_button_gradient":"","padding_top":72,"padding_bottom":72,"divider":false,"full_width":false,"rounded":false,"enable_parallax":true,"parallax_direction":"vertical"}}},"order":["main","image_with_text_r7LJdw"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "heading_size": "title-xl tracking-heading",
+        "heading_alignment": "text-left",
+        "heading_tag": "h1",
+        "text_size": "text-base",
+        "padding_top": 72,
+        "padding_bottom": 120,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "image_with_text_r7LJdw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xpFcTT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ihr Partner für Softwarelizenzen",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_Tz7BYg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Clu Media GmbH wurde 2021 in Zürich gegründet und hat sich als verlässlicher Partner im Handel mit Softwarelizenzen etabliert. Neben unserem Kerngeschäft in Softwarelizenzen bieten wir umfassende Dienstleistungen in Marketing, PR und Content Creation. Seit 2024 erweitern wir unser Angebot um den Vertrieb von Softwarelizenzen, um Unternehmen eine kosteneffiziente IT-Gestaltung zu ermöglichen. Unser Ziel ist es, nachhaltige IT-Lösungen durch den Wiederverkauf und die Wiederverwendung von Softwarelizenzen zu schaffen.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xpFcTT",
+        "text_Tz7BYg"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_4236.jpg",
+        "image_height": "700px",
+        "image_width": "medium",
+        "layout": "text_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_r7LJdw"
+  ]
+}
