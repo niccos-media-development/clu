@@ -15,7 +15,7 @@
         "heading_zVMheU": {
           "type": "heading",
           "settings": {
-            "heading": "Ihr verlässlicher Partner für flexible Softwarelösungen",
+            "heading": "Ihr verlässlicher Partner für flexible Softwarelösungen – Cleverinvestieren, nachhaltig profitieren",
             "heading_size": "title-md",
             "heading_tag": "h1",
             "highlighted_text": "none",
@@ -25,7 +25,7 @@
         "text_66Wj34": {
           "type": "text",
           "settings": {
-            "text": "<p>Willkommen bei Clu Media GmbH – Ihrem Spezialisten für den Verkauf und Ankauf von Softwarelizenzen. Wir helfen Unternehmen, ihre IT-Budgets effizient zu nutzen und bieten kostengünstige sowie nachhaltige Lösungen für Ihre geschäftlichen Anforderungen. Entdecken Sie, wie Sie mit uns smarter in IT investieren können.</p>",
+            "text": "<p>Willkommen bei Clu Media GmbH – Ihrem Experten für den smarten An- und Verkauf von Softwarelizenzen. Unternehmen vertrauen auf uns, um ihre IT-Budgets effizienter zu nutzen und dabei gleichzeitig nachhaltig und kostengünstig zu agieren.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -58,7 +58,7 @@
         "content_width": "small",
         "content_position": "md:items-center md:justify-center",
         "text_alignment": "center",
-        "image_height_mobile": "auto",
+        "image_height_mobile": "100vh",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
         "color_text": "#ffffff",
@@ -102,11 +102,23 @@
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
+        },
+        "button_m3KhWT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zum Shop",
+            "button_link": "shopify://collections/all",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
         }
       },
       "block_order": [
         "heading_jRQDbx",
-        "text_hpqTUE"
+        "text_hpqTUE",
+        "button_m3KhWT"
       ],
       "settings": {
         "text_alignment": "center",
@@ -129,8 +141,8 @@
         "gradient_background": "",
         "color_highlight": "",
         "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
+        "color_button_text": "#000000",
+        "color_button_background": "#ffffff",
         "color_button_gradient": "",
         "padding_top": 72,
         "padding_bottom": 100,
@@ -150,7 +162,7 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "Unsere Bestseller",
+        "heading": "UNSERE BESTSELLER",
         "heading_size": "title-md",
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
