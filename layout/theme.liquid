@@ -79,6 +79,8 @@
     sections 'overlay-group'
   -%}
 
+  {%- render 'preloader' -%}
+
   <div class="page-container" id="PageContainer">
     <main class="main-content relative" id="MainContent" role="main">
       {{ content_for_layout }}
