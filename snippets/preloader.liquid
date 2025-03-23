@@ -1,6 +1,8 @@
 <!-- Preloader HTML -->
 <div id="custom-preloader">
-  <img src="https://cdn.shopify.com/s/files/1/0735/7874/2045/files/1000x1000px_3D_logo.jpg?v=1741652028" alt="Loading..." />
+  <div class="preloader-inner">
+    <img src="https://cdn.shopify.com/s/files/1/0735/7874/2045/files/1000x1000px_3D_logo.jpg?v=1741652028" alt="Loading..." />
+  </div>
 </div>
 
 <!-- Preloader CSS -->
@@ -8,18 +10,24 @@
   #custom-preloader {
     position: fixed;
     z-index: 9999;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background: #000;
+    inset: 0;
+    background-color: #000;
     display: flex;
     align-items: center;
     justify-content: center;
     transition: opacity 1s ease;
   }
 
+  .preloader-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+
   #custom-preloader img {
+    width: 30vw;
     max-width: 150px;
     height: auto;
   }
