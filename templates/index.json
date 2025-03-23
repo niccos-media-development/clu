@@ -139,6 +139,40 @@
         "rounded": false
       }
     },
+    "featured_collection_tEYicG": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "anwendungen",
+        "products": [],
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Unsere Bestseller",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "#ffffff",
+        "color_background": "#000000",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "rich_text_fP3pyx": {
       "type": "rich-text",
       "blocks": {
@@ -216,47 +250,13 @@
         "narrow": false,
         "rounded": false
       }
-    },
-    "featured_collection_tEYicG": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "anwendungen",
-        "products": [],
-        "product_limit": 6,
-        "columns": 4,
-        "carousel_on_desktop": true,
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "heading": "Unsere Bestseller",
-        "heading_size": "title-md",
-        "heading_alignment": "text-center md:items-center",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "#ffffff",
-        "color_background": "#000000",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
-        "rounded": false
-      }
     }
   },
   "order": [
     "image_with_text_overlay_ciYJLX",
     "rich_text_HpNgeX",
+    "featured_collection_tEYicG",
     "rich_text_fP3pyx",
-    "custom_liquid_LKDzWk",
-    "featured_collection_tEYicG"
+    "custom_liquid_LKDzWk"
   ]
 }
