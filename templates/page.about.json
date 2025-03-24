@@ -142,11 +142,135 @@
         "narrow": true,
         "rounded": false
       }
+    },
+    "rich_text_UwmMRX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HyYt4h": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Unsere Vision: Digitalisierung mit Verantwortung</strong>",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_zEw6Qd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir sind überzeugt, dass Digitalisierung und Nachhaltigkeit Hand in Hand gehen. Durch innovative Ansätze und ein starkes Partnernetzwerk treiben wir digitale Transformation voran, ohne Kompromisse bei der Nachhaltigkeit einzugehen.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HyYt4h",
+        "text_zEw6Qd"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "rich_text_t9Cx6H": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_76f4pq": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Erfolgsgeschichten: Wie unsere Kunden profitieren</strong>",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_cVDxBn": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>KMU-Effizienz</strong>: Ein mittelständisches Unternehmen konnte durch unsere gebrauchten Softwarelizenzen seine IT-Kosten um 30% senken.</li><li><strong>Start-up-Erfolg</strong>: Ein Start-up verkaufte ungenutzte Lizenzen gewinnbringend und investierte in neue Technologien.</li><li><strong>Nachhaltige IT für Großunternehmen</strong>: Ein Konzern setzte unsere Lösungen ein, um brachliegende IT-Ressourcen effizient zu nutzen und die Umweltbelastung zu minimieren.</li></ul>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_76f4pq",
+        "text_cVDxBn"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_r7LJdw",
-    "rich_text_GWejX4"
+    "rich_text_GWejX4",
+    "rich_text_UwmMRX",
+    "rich_text_t9Cx6H"
   ]
 }
