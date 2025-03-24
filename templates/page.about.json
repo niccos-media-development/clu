@@ -395,12 +395,74 @@
         "narrow": true,
         "rounded": false
       }
+    },
+    "rich_text_bBnxHB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HnnFQx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Unsere Mission: Nachhaltigkeit und Innovation</strong>",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_BWwgdM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser Ziel ist es, Unternehmen dabei zu helfen, ihre IT-Ressourcen effizient zu nutzen und die Digitalisierung nachhaltig voranzutreiben. Mit dem Wiederverkauf von Softwarelizenzen fördern wir die Kreislaufwirtschaft und reduzieren die Umweltbelastung.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HnnFQx",
+        "text_BWwgdM"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_r7LJdw",
     "rich_text_GWejX4",
+    "rich_text_bBnxHB",
     "rich_text_UwmMRX",
     "image_with_text_iVPpNX",
     "rich_text_t9Cx6H",
