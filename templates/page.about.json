@@ -259,6 +259,67 @@
         "color_button_background": "",
         "color_button_gradient": "",
         "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "rich_text_DQydD3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7wkYVx": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Kontaktieren Sie uns: Ihr Weg zu smarteren IT-Investitionen</strong>",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_tUMz8X": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lassen Sie uns gemeinsam Ihre IT-Kosten optimieren und nachhaltige Lösungen entwickeln. Geschäftsführerin Kyra Bohner und ihr Team stehen Ihnen für maßgeschneiderte Lösungen zur Seite. Kontaktieren Sie uns noch heute und investieren Sie smarter mit Clu Media GmbH.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_7wkYVx",
+        "text_tUMz8X"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
         "padding_bottom": 100,
         "divider": false,
         "narrow": true,
@@ -271,6 +332,7 @@
     "image_with_text_r7LJdw",
     "rich_text_GWejX4",
     "rich_text_UwmMRX",
-    "rich_text_t9Cx6H"
+    "rich_text_t9Cx6H",
+    "rich_text_DQydD3"
   ]
 }
