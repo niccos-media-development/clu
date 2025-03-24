@@ -143,6 +143,63 @@
         "rounded": false
       }
     },
+    "image_with_text_wRLg7F": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bhYBgB": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Unsere Mission: Nachhaltigkeit und Innovation</strong>",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_K4Wqmm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unser Ziel ist es, Unternehmen dabei zu helfen, ihre IT-Ressourcen effizient zu nutzen und die Digitalisierung nachhaltig voranzutreiben. Mit dem Wiederverkauf von Softwarelizenzen fördern wir die Kreislaufwirtschaft und reduzieren die Umweltbelastung.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bhYBgB",
+        "text_K4Wqmm"
+      ],
+      "settings": {
+        "image_height": "650px",
+        "image_width": "medium",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
     "rich_text_bBnxHB": {
       "type": "rich-text",
       "blocks": {
@@ -601,6 +658,7 @@
     "main",
     "image_with_text_r7LJdw",
     "rich_text_GWejX4",
+    "image_with_text_wRLg7F",
     "rich_text_bBnxHB",
     "rich_text_UwmMRX",
     "image_with_text_iVPpNX",
