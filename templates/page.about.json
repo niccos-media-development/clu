@@ -174,6 +174,7 @@
         "text_K4Wqmm"
       ],
       "settings": {
+        "image": "shopify://shop_images/IMG_0558.jpg",
         "image_height": "650px",
         "image_width": "medium",
         "layout": "image_first",
@@ -231,7 +232,7 @@
         "text_VdwtnD"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_4236.jpg",
+        "image": "shopify://shop_images/diego-ph-fIq0tET6llw-unsplash.jpg",
         "image_height": "700px",
         "image_width": "medium",
         "layout": "text_first",
@@ -301,7 +302,7 @@
         "button_BXrgap"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_2847.jpg",
+        "image": "shopify://shop_images/christin-hume-Hcfwew744z4-unsplash.jpg",
         "image_height": "650px",
         "image_width": "medium",
         "layout": "image_first",
