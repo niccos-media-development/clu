@@ -15,7 +15,7 @@
         "heading_zVMheU": {
           "type": "heading",
           "settings": {
-            "heading": "Ihr verlässlicher Partner für flexible Softwarelösungen – Cleverinvestieren, nachhaltig profitieren",
+            "heading": "Ihr verlässlicher Partner für flexible Softwarelösungen – Clever investieren und nachhaltig profitieren",
             "heading_size": "title-md",
             "heading_tag": "h1",
             "highlighted_text": "none",
@@ -94,7 +94,7 @@
         "text_hpqTUE": {
           "type": "text",
           "settings": {
-            "text": "<p>Effiziente Softwarelösungen für Ihr Unternehmen<br/><br/>Hier finden Sie eine Vielzahl an neuen und gebrauchten Softwarelizenzen, darunter Microsoft-Produkte wie Windows Server, SQL Server und Microsoft Office. Alle unsere Lizenzen sind gesetzeskonform und bieten die gleiche Leistung wie neue Produkte – zu einem Bruchteil der Kosten.</p>",
+            "text": "<p>Effiziente Softwarelösungen für Ihr Unternehmen.<br/>Hier finden Sie eine Vielzahl an neuen und gebrauchten Softwarelizenzen, darunter Microsoft-Produkte wie Windows Server, SQL Server und Microsoft Office. Alle unsere Lizenzen sind gesetzeskonform und bieten die gleiche Leistung wie neue Produkte – zu einem Bruchteil der Kosten.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -145,7 +145,7 @@
         "color_button_background": "#ffffff",
         "color_button_gradient": "",
         "padding_top": 72,
-        "padding_bottom": 100,
+        "padding_bottom": 72,
         "divider": false,
         "narrow": true,
         "rounded": false
@@ -191,7 +191,7 @@
         "heading_GLrwLk": {
           "type": "heading",
           "settings": {
-            "heading": "Willkommen Bei CluMedia",
+            "heading": "Willkommen bei CluMedia",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
