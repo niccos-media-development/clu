@@ -354,7 +354,7 @@
         "button_BXrgap": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Jetzt einkaufen",
             "button_link": "",
             "button_style": "primary",
             "button_size": "md",
