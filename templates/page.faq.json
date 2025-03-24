@@ -97,16 +97,16 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "rich-text-1": {
-          "type": "rich-text",
+        "question-1": {
+          "type": "question",
           "settings": {
-            "heading": "1. Was sind gebrauchte Softwarelizenzen?",
+            "title": "<strong>1. Was sind gebrauchte Softwarelizenzen?</strong>",
             "text": "<p>Lizenzen, die zuvor von einem anderen Unternehmen genutzt wurden, mit voller Funktionalität zum günstigeren Preis.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         },
-        "question-1": {
+        "question_xKxrLk": {
           "type": "question",
           "settings": {
             "title": "<strong>2. Sind gebrauchte Lizenzen legal?</strong>",
@@ -209,8 +209,8 @@
         }
       },
       "block_order": [
-        "rich-text-1",
         "question-1",
+        "question_xKxrLk",
         "question-2",
         "question-4",
         "question-5",
