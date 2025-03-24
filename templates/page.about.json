@@ -200,81 +200,20 @@
         "parallax_direction": "vertical"
       }
     },
-    "rich_text_bBnxHB": {
-      "type": "rich-text",
+    "image_with_text_wJTnrE": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_HnnFQx": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Unsere Mission: Nachhaltigkeit und Innovation</strong>",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_BWwgdM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Unser Ziel ist es, Unternehmen dabei zu helfen, ihre IT-Ressourcen effizient zu nutzen und die Digitalisierung nachhaltig voranzutreiben. Mit dem Wiederverkauf von Softwarelizenzen fördern wir die Kreislaufwirtschaft und reduzieren die Umweltbelastung.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "heading_HnnFQx",
-        "text_BWwgdM"
-      ],
-      "settings": {
-        "text_alignment": "left",
-        "text_alignment_mobile": "left",
-        "heading": "",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_width": "small",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "narrow": true,
-        "rounded": false
-      }
-    },
-    "rich_text_UwmMRX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_HyYt4h": {
+        "heading_PzLJYA": {
           "type": "heading",
           "settings": {
             "heading": "<strong>Unsere Vision: Digitalisierung mit Verantwortung</strong>",
-            "heading_size": "title-lg tracking-heading",
+            "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         },
-        "text_zEw6Qd": {
+        "text_VdwtnD": {
           "type": "text",
           "settings": {
             "text": "<p>Wir sind überzeugt, dass Digitalisierung und Nachhaltigkeit Hand in Hand gehen. Durch innovative Ansätze und ein starkes Partnernetzwerk treiben wir digitale Transformation voran, ohne Kompromisse bei der Nachhaltigkeit einzugehen.</p>",
@@ -288,28 +227,23 @@
         }
       },
       "block_order": [
-        "heading_HyYt4h",
-        "text_zEw6Qd"
+        "heading_PzLJYA",
+        "text_VdwtnD"
       ],
       "settings": {
+        "image": "shopify://shop_images/IMG_4236.jpg",
+        "image_height": "700px",
+        "image_width": "medium",
+        "layout": "text_first",
         "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
         "text_alignment_mobile": "left",
-        "heading": "",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_width": "small",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
         "color_text": "",
         "color_background": "",
         "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
         "color_highlight": "",
         "gradient_highlight": "",
         "color_button_text": "",
@@ -318,8 +252,10 @@
         "padding_top": 72,
         "padding_bottom": 72,
         "divider": false,
-        "narrow": true,
-        "rounded": false
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
       }
     },
     "image_with_text_iVPpNX": {
@@ -659,8 +595,7 @@
     "image_with_text_r7LJdw",
     "rich_text_GWejX4",
     "image_with_text_wRLg7F",
-    "rich_text_bBnxHB",
-    "rich_text_UwmMRX",
+    "image_with_text_wJTnrE",
     "image_with_text_iVPpNX",
     "rich_text_t9Cx6H",
     "rich_text_iV6LPT",
