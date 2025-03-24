@@ -288,7 +288,7 @@
           "type": "button",
           "settings": {
             "button_label": "Jetzt einkaufen",
-            "button_link": "",
+            "button_link": "shopify://collections/all",
             "button_style": "primary",
             "button_size": "md",
             "button_external": false,
