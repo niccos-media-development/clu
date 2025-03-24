@@ -118,7 +118,7 @@
         "question-2": {
           "type": "question",
           "settings": {
-            "title": "3. Wie kann ich meine ungenutzten Lizenzen verkaufen?",
+            "title": "<strong>3. Wie kann ich meine ungenutzten Lizenzen verkaufen?</strong>",
             "text": "<p>Kontaktieren Sie uns über unser Formular oder telefonisch. Wir unterbreiten Ihnen ein faires Angebot.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -136,7 +136,7 @@
         "question-5": {
           "type": "question",
           "settings": {
-            "title": "5. Welche Vorteile bieten gebrauchte Lizenzen?",
+            "title": "<strong>5. Welche Vorteile bieten gebrauchte Lizenzen?</strong>",
             "text": "<p>Kosteneinsparungen, Umweltfreundlichkeit und volle Leistung.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -154,7 +154,7 @@
         "question-7": {
           "type": "question",
           "settings": {
-            "title": "7. Wie garantiert Clu Media die Qualität der Lizenzen?",
+            "title": "<strong>7. Wie garantiert Clu Media die Qualität der Lizenzen?</strong>",
             "text": "<p>Alle unsere Lizenzen entsprechen den gesetzlichen Vorgaben und werden geprüft.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -163,7 +163,7 @@
         "question-8": {
           "type": "question",
           "settings": {
-            "title": "8. Kann ich auch neue Softwarelizenzen kaufen?",
+            "title": "<strong>8. Kann ich auch neue Softwarelizenzen kaufen?</strong>",
             "text": "<p>Ja, wir bieten sowohl neue als auch gebrauchte Softwarelizenzen an.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -181,7 +181,7 @@
         "question-10": {
           "type": "question",
           "settings": {
-            "title": "10. Wie schnell kann ich ungenutzte Lizenzen verkaufen?",
+            "title": "<strong>10. Wie schnell kann ich ungenutzte Lizenzen verkaufen?</strong>",
             "text": "<p>Kontaktieren Sie uns, und unser Team bewertet Ihre Lizenzen schnell und effizient.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -190,7 +190,7 @@
         "question-11": {
           "type": "question",
           "settings": {
-            "title": "11. Was ist ein CAL-Modell bei Microsoft-Servern?",
+            "title": "<strong>11. Was ist ein CAL-Modell bei Microsoft-Servern?</strong>",
             "text": "<p>Eine Lizenzierungsmethode für Nutzer oder Geräte, die auf Serverlösungen zugreifen.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
