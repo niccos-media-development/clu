@@ -82,23 +82,23 @@
         "parallax_direction": "vertical"
       }
     },
-    "image_with_text_Y8gnBQ": {
-      "type": "image-with-text",
+    "rich_text_GWejX4": {
+      "type": "rich-text",
       "blocks": {
-        "heading_RqMK4B": {
+        "heading_PnjJcH": {
           "type": "heading",
           "settings": {
             "heading": "Warum Clu Media GmbH?",
-            "heading_size": "title-md",
+            "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         },
-        "text_HfBMf7": {
+        "text_yKq6rV": {
           "type": "text",
           "settings": {
-            "text": "<p>Wir verstehen die Herausforderungen der IT-Budgetverwaltung und stehen Ihnen als langfristiger Partner zur Seite. Durch unser Netzwerk erhalten Sie Zugang zu kosteneffizienten und nachhaltigen Softwarelösungen.</p>",
+            "text": "<p>Wir verstehen die Herausforderungen der IT-Budgetverwaltung und stehen Ihnen als langfristiger Partner zur Seite. Durch unser Netzwerk erhalten Sie Zugang zu kosteneffizienten und nachhaltigen Softwarelösungen.</p><p></p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -109,23 +109,28 @@
         }
       },
       "block_order": [
-        "heading_RqMK4B",
-        "text_HfBMf7"
+        "heading_PnjJcH",
+        "text_yKq6rV"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_4566.jpg",
-        "image_height": "700px",
-        "image_width": "medium",
-        "layout": "image_first",
         "text_alignment": "left",
-        "content_position": "align-self-center",
-        "image_height_mobile": "auto",
         "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
         "color_text": "",
         "color_background": "",
         "gradient_background": "",
-        "color_background_2": "",
-        "gradient_background_2": "",
         "color_highlight": "",
         "gradient_highlight": "",
         "color_button_text": "",
@@ -134,16 +139,14 @@
         "padding_top": 72,
         "padding_bottom": 72,
         "divider": false,
-        "full_width": false,
-        "rounded": false,
-        "enable_parallax": true,
-        "parallax_direction": "vertical"
+        "narrow": true,
+        "rounded": false
       }
     }
   },
   "order": [
     "main",
     "image_with_text_r7LJdw",
-    "image_with_text_Y8gnBQ"
+    "rich_text_GWejX4"
   ]
 }
