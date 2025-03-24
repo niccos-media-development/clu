@@ -396,6 +396,67 @@
         "rounded": false
       }
     },
+    "rich_text_iV6LPT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_A8hFKb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Unser Ansatz: Effizienz trifft Nachhaltigkeit</strong>",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_WtyMFF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In der heutigen schnelllebigen Geschäftswelt ist es entscheidend, IT-Ressourcen effizient und nachhaltig zu nutzen. Bei Clu Media GmbH kombinieren wir beides:</p><ul><li><strong>Intelligentes Lizenzmanagement</strong>, das IT-Budgets optimiert und Ressourcen schont.</li><li><strong>Zirkuläre Wirtschaft</strong>, die durch Kauf und Verkauf von gebrauchten Softwarelizenzen Abfall reduziert und Kapital freisetzt.</li></ul>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_A8hFKb",
+        "text_WtyMFF"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
     "rich_text_DQydD3": {
       "type": "rich-text",
       "blocks": {
@@ -457,65 +518,82 @@
         "rounded": false
       }
     },
-    "rich_text_iV6LPT": {
-      "type": "rich-text",
+    "slideshow_9QXa8A": {
+      "type": "slideshow",
       "blocks": {
-        "heading_A8hFKb": {
-          "type": "heading",
+        "image_Rcmm3w": {
+          "type": "image",
           "settings": {
-            "heading": "<strong>Unser Ansatz: Effizienz trifft Nachhaltigkeit</strong>",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-19_at_21.02.16.jpg",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-03-19_at_21.02.16.jpg",
+            "heading": "Unser Office",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
           }
         },
-        "text_WtyMFF": {
-          "type": "text",
+        "image_tnK979": {
+          "type": "image",
           "settings": {
-            "text": "<p>In der heutigen schnelllebigen Geschäftswelt ist es entscheidend, IT-Ressourcen effizient und nachhaltig zu nutzen. Bei Clu Media GmbH kombinieren wir beides:</p><ul><li><strong>Intelligentes Lizenzmanagement</strong>, das IT-Budgets optimiert und Ressourcen schont.</li><li><strong>Zirkuläre Wirtschaft</strong>, die durch Kauf und Verkauf von gebrauchten Softwarelizenzen Abfall reduziert und Kapital freisetzt.</li></ul>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-19_at_21.02.44.jpg",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-03-19_at_21.02.44.jpg",
+            "heading": "Im Herzen von Zürich",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
+        "image_496kjq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-19_at_21.02.17.jpg",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-03-19_at_21.02.17.jpg",
+            "heading": "Besuchen Sie uns gerne.",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
           }
         }
       },
       "block_order": [
-        "heading_A8hFKb",
-        "text_WtyMFF"
+        "image_Rcmm3w",
+        "image_tnK979",
+        "image_496kjq"
       ],
       "settings": {
-        "text_alignment": "left",
-        "text_alignment_mobile": "left",
-        "heading": "",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_width": "small",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "show_navigation": true,
+        "image_height": "650px",
+        "content_width": "small",
+        "image_height_mobile": "auto",
+        "color_text": "#ffffff",
+        "color_background": "#171717",
         "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
         "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 100,
+        "color_overlay": "#171717",
+        "overlay_opacity": 20,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "divider": false,
-        "narrow": true,
-        "rounded": false
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
       }
     }
   },
@@ -527,7 +605,8 @@
     "rich_text_UwmMRX",
     "image_with_text_iVPpNX",
     "rich_text_t9Cx6H",
+    "rich_text_iV6LPT",
     "rich_text_DQydD3",
-    "rich_text_iV6LPT"
+    "slideshow_9QXa8A"
   ]
 }
