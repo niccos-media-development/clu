@@ -190,6 +190,7 @@
       "blocks": {
         "heading_GLrwLk": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Willkommen bei CluMedia",
             "heading_size": "title-md",
@@ -200,6 +201,7 @@
         },
         "text_ctW9JR": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Willkommen bei Clu Media GmbH – Ihrem verlässlichen Partner für flexible Softwarelösungen. Wir sind spezialisiert auf den Verkauf und Ankauf von Softwarelizenzen und unterstützen Unternehmen dabei, ihr IT-Budget effizient zu nutzen. Egal, ob Sie neue oder gebrauchte Software suchen, wir bieten Ihnen kostengünstige und nachhaltige Lösungen, um Ihre geschäftlichen Anforderungen zu erfüllen. Entdecken Sie jetzt, wie wir Ihr Unternehmen dabei unterstützen können, smarter in IT zu investieren.</p>",
             "text_size": "subtext-md",
@@ -215,6 +217,7 @@
         "heading_GLrwLk",
         "text_ctW9JR"
       ],
+      "disabled": true,
       "settings": {
         "text_alignment": "center",
         "text_alignment_mobile": "left",
