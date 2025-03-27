@@ -171,10 +171,19 @@
     "video_with_text_zdrefR": {
       "type": "video-with-text",
       "blocks": {
+        "image_McND9G": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/images.png",
+            "image_width": "custom",
+            "image_max_width": 90,
+            "image_max_width_mobile": 50
+          }
+        },
         "text_6DfjYP": {
           "type": "text",
           "settings": {
-            "text": "<p>Dabei geht es nicht nur um spannende Gespräche über Karrierewege, Herausforderungen und Erfolge, sondern auch darum, Horizonte zu erweitern – sowohl für mich selbst als auch für meine Zuhörerinnen.</p>",
+            "text": "<p>Jetzt reinhören</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -185,6 +194,7 @@
         }
       },
       "block_order": [
+        "image_McND9G",
         "text_6DfjYP"
       ],
       "settings": {
