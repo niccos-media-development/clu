@@ -9,6 +9,92 @@
  */
 {
   "sections": {
+    "custom_liquid_LKDzWk": {
+      "type": "custom-liquid",
+      "settings": {
+        "liquid": "<img class=\"clu-animated\" src=\"https://cdn.shopify.com/s/files/1/0735/7874/2045/files/1000x1000px_3D_logo.jpg?v=1741652028\">\n\n<style>\n.clu-animated {\n    max-width: 200px;\n    margin-left: auto;\n    margin-right: auto;\n}\n\n@media screen and (min-width: 768px) {\n    .clu-animated {\n        max-width: 500px; \n    }\n}\n</style>",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
+    "image_with_text_overlay_ciYJLX": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_zVMheU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ihr verlässlicher Partner für flexible Softwarelösungen – Clever investieren und nachhaltig profitieren.",
+            "heading_size": "title-md",
+            "heading_tag": "h1",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_66Wj34": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Willkommen bei Clu Media GmbH – Ihrem Experten für den smarten An- und Verkauf von Softwarelizenzen. Unternehmen vertrauen auf uns, um ihre IT-Budgets effizient zu nutzen und dabei gleichzeitig nachhaltig sowie kostengünstig zu agieren.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_h79DrK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Lizenzen sichern",
+            "button_link": "shopify://collections/all",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_zVMheU",
+        "text_66Wj34",
+        "button_h79DrK"
+      ],
+      "settings": {
+        "transparent_header": false,
+        "image": "shopify://shop_images/Bildschirmfoto_2025-03-27_um_21.11.02.png",
+        "image_height": "750px",
+        "content_width": "large",
+        "content_position": "md:items-center md:justify-center",
+        "text_alignment": "center",
+        "image_height_mobile": "100vh",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
     "rich_text_HpNgeX": {
       "type": "rich-text",
       "blocks": {
@@ -79,92 +165,6 @@
         "padding_bottom": 72,
         "divider": false,
         "narrow": true,
-        "rounded": false
-      }
-    },
-    "image_with_text_overlay_ciYJLX": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_zVMheU": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ihr verlässlicher Partner für flexible Softwarelösungen – Clever investieren und nachhaltig profitieren.",
-            "heading_size": "title-md",
-            "heading_tag": "h1",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_66Wj34": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Willkommen bei Clu Media GmbH – Ihrem Experten für den smarten An- und Verkauf von Softwarelizenzen. Unternehmen vertrauen auf uns, um ihre IT-Budgets effizient zu nutzen und dabei gleichzeitig nachhaltig sowie kostengünstig zu agieren.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "button_h79DrK": {
-          "type": "button",
-          "settings": {
-            "button_label": "Lizenzen sichern",
-            "button_link": "shopify://collections/all",
-            "button_style": "primary",
-            "button_size": "md",
-            "button_external": false,
-            "button_icon": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_zVMheU",
-        "text_66Wj34",
-        "button_h79DrK"
-      ],
-      "settings": {
-        "transparent_header": false,
-        "image": "shopify://shop_images/Bildschirmfoto_2025-03-27_um_21.11.02.png",
-        "image_height": "750px",
-        "content_width": "small",
-        "content_position": "md:items-center md:justify-center",
-        "text_alignment": "center",
-        "image_height_mobile": "100vh",
-        "content_position_mobile": "items-end justify-start",
-        "text_alignment_mobile": "left",
-        "color_text": "#ffffff",
-        "color_highlight": "#e0a580",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": true,
-        "parallax_direction": "vertical"
-      }
-    },
-    "custom_liquid_LKDzWk": {
-      "type": "custom-liquid",
-      "settings": {
-        "liquid": "<img class=\"clu-animated\" src=\"https://cdn.shopify.com/s/files/1/0735/7874/2045/files/1000x1000px_3D_logo.jpg?v=1741652028\">\n\n<style>\n.clu-animated {\n    max-width: 200px;\n    margin-left: auto;\n    margin-right: auto;\n}\n\n@media screen and (min-width: 768px) {\n    .clu-animated {\n        max-width: 500px; \n    }\n}\n</style>",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "narrow": false,
         "rounded": false
       }
     },
