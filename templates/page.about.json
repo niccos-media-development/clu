@@ -529,6 +529,77 @@
         "parallax_direction": "vertical"
       }
     },
+    "image_with_text_6QdQmi": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xGtAB7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Kontaktieren Sie uns: Ihr Weg zu smarteren IT-Investitionen</strong>",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_wE6JpR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lassen Sie uns gemeinsam Ihre IT-Kosten optimieren und nachhaltige Lösungen entwickeln. Geschäftsführerin Kyra Bohner und ihr Team stehen Ihnen für maßgeschneiderte Lösungen zur Seite. Kontaktieren Sie uns noch heute und investieren Sie smarter mit Clu Media GmbH.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_NzKGUf": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_xGtAB7",
+        "text_wE6JpR",
+        "button_NzKGUf"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Bildschirmfoto_2025-03-08_um_10.19.50.png",
+        "image_height": "650px",
+        "image_width": "medium",
+        "layout": "text_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
     "rich_text_DQydD3": {
       "type": "rich-text",
       "blocks": {
@@ -559,6 +630,7 @@
         "heading_7wkYVx",
         "text_tUMz8X"
       ],
+      "disabled": true,
       "settings": {
         "text_alignment": "left",
         "text_alignment_mobile": "left",
@@ -601,6 +673,7 @@
     "image_with_text_iVPpNX",
     "rich_text_t9Cx6H",
     "slideshow_9QXa8A",
+    "image_with_text_6QdQmi",
     "rich_text_DQydD3"
   ]
 }
