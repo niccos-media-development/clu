@@ -9,6 +9,79 @@
  */
 {
   "sections": {
+    "rich_text_HpNgeX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jRQDbx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unser Shop",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_hpqTUE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Effiziente Softwarelösungen für Ihr Unternehmen.<br/>Hier finden Sie eine Vielzahl an neuen und gebrauchten Softwarelizenzen, darunter Microsoft-Produkte wie Windows Server, SQL Server und Microsoft Office. Alle unsere Lizenzen sind gesetzeskonform und bieten die gleiche Leistung wie neue Produkte – zu einem Bruchteil der Kosten.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_m3KhWT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Zum Shop",
+            "button_link": "shopify://collections/all",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_jRQDbx",
+        "text_hpqTUE",
+        "button_m3KhWT"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "#000000",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
     "image_with_text_overlay_ciYJLX": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -92,79 +165,6 @@
         "padding_bottom": 0,
         "divider": false,
         "narrow": false,
-        "rounded": false
-      }
-    },
-    "rich_text_HpNgeX": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_jRQDbx": {
-          "type": "heading",
-          "settings": {
-            "heading": "Unser Shop",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_hpqTUE": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Effiziente Softwarelösungen für Ihr Unternehmen.<br/>Hier finden Sie eine Vielzahl an neuen und gebrauchten Softwarelizenzen, darunter Microsoft-Produkte wie Windows Server, SQL Server und Microsoft Office. Alle unsere Lizenzen sind gesetzeskonform und bieten die gleiche Leistung wie neue Produkte – zu einem Bruchteil der Kosten.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "button_m3KhWT": {
-          "type": "button",
-          "settings": {
-            "button_label": "Zum Shop",
-            "button_link": "shopify://collections/all",
-            "button_style": "primary",
-            "button_size": "md",
-            "button_external": false,
-            "button_icon": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_jRQDbx",
-        "text_hpqTUE",
-        "button_m3KhWT"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "text_alignment_mobile": "left",
-        "heading": "",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_width": "small",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "#000000",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "narrow": true,
         "rounded": false
       }
     },
@@ -268,8 +268,8 @@
     }
   },
   "order": [
-    "image_with_text_overlay_ciYJLX",
     "custom_liquid_LKDzWk",
+    "image_with_text_overlay_ciYJLX",
     "rich_text_HpNgeX",
     "featured_collection_tEYicG",
     "rich_text_fP3pyx"
