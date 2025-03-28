@@ -26,20 +26,20 @@
         "rounded": false
       }
     },
-    "image_with_text_overlay_ciYJLX": {
-      "type": "image-with-text-overlay",
+    "rich_text_HpNgeX": {
+      "type": "rich-text",
       "blocks": {
-        "heading_zVMheU": {
+        "heading_jRQDbx": {
           "type": "heading",
           "settings": {
             "heading": "Ihr verlässlicher Partner für flexible Softwarelösungen – Clever investieren und nachhaltig profitieren.",
             "heading_size": "title-md",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         },
-        "text_66Wj34": {
+        "text_hpqTUE": {
           "type": "text",
           "settings": {
             "text": "<p>Willkommen bei Clu Media GmbH – Ihrem Experten für den smarten An- und Verkauf von Softwarelizenzen. Unternehmen vertrauen auf uns, um ihre IT-Budgets effizient zu nutzen und dabei gleichzeitig nachhaltig sowie kostengünstig zu agieren.</p>",
@@ -51,7 +51,7 @@
             "highlighted_scribble": "circle"
           }
         },
-        "button_h79DrK": {
+        "button_m3KhWT": {
           "type": "button",
           "settings": {
             "button_label": "Lizenzen sichern",
@@ -64,41 +64,45 @@
         }
       },
       "block_order": [
-        "heading_zVMheU",
-        "text_66Wj34",
-        "button_h79DrK"
+        "heading_jRQDbx",
+        "text_hpqTUE",
+        "button_m3KhWT"
       ],
       "settings": {
-        "transparent_header": false,
-        "image": "shopify://shop_images/Bildschirmfoto_2025-03-27_um_21.11.02.png",
-        "image_height": "750px",
-        "content_width": "large",
-        "content_position": "md:items-center md:justify-center",
         "text_alignment": "center",
-        "image_height_mobile": "100vh",
-        "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
-        "color_text": "#ffffff",
-        "color_highlight": "#e0a580",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
         "gradient_highlight": "",
-        "color_button_text": "#171717",
+        "color_button_text": "#000000",
         "color_button_background": "#ffffff",
         "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
         "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": true,
-        "parallax_direction": "vertical"
+        "narrow": true,
+        "rounded": false
       }
     },
-    "rich_text_HpNgeX": {
+    "rich_text_tpyyFj": {
       "type": "rich-text",
       "blocks": {
-        "heading_jRQDbx": {
+        "heading_6wxtjY": {
           "type": "heading",
           "settings": {
             "heading": "Unser Shop",
@@ -108,7 +112,7 @@
             "highlighted_scribble": "circle"
           }
         },
-        "text_hpqTUE": {
+        "text_B7qyM9": {
           "type": "text",
           "settings": {
             "text": "<p>Effiziente Softwarelösungen für Ihr Unternehmen.<br/>Hier finden Sie eine Vielzahl an neuen und gebrauchten Softwarelizenzen, darunter Microsoft-Produkte wie Windows Server, SQL Server und Microsoft Office. Alle unsere Lizenzen sind gesetzeskonform und bieten die gleiche Leistung wie neue Produkte – zu einem Bruchteil der Kosten.</p>",
@@ -120,7 +124,7 @@
             "highlighted_scribble": "circle"
           }
         },
-        "button_m3KhWT": {
+        "button_Cf7zmE": {
           "type": "button",
           "settings": {
             "button_label": "Zum Shop",
@@ -133,9 +137,9 @@
         }
       },
       "block_order": [
-        "heading_jRQDbx",
-        "text_hpqTUE",
-        "button_m3KhWT"
+        "heading_6wxtjY",
+        "text_B7qyM9",
+        "button_Cf7zmE"
       ],
       "settings": {
         "text_alignment": "center",
@@ -269,8 +273,8 @@
   },
   "order": [
     "custom_liquid_LKDzWk",
-    "image_with_text_overlay_ciYJLX",
     "rich_text_HpNgeX",
+    "rich_text_tpyyFj",
     "featured_collection_tEYicG",
     "rich_text_fP3pyx"
   ]
