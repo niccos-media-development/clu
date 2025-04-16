@@ -148,10 +148,73 @@
         "full_width": true,
         "rounded": true
       }
+    },
+    "rich_text_TidpdJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wVxGhb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rich text",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_DXaaA7": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Clu Media GmbH<br/></strong>Oberallmendstrasse 18<br/>6300 Zug</p><p>UID: CHE-131.811.236</p><p>Zu technischen und inhaltlichen Fragen wenden Sie sich bitte an die Redaktion</p><p><strong>Herausgeber</strong><br/>Clu Media GmbH</p><p><strong>​Redaktion</strong><br/>Clu Media GmbH<br/>​<br/><strong>Konzeption und Design</strong><br/>Frederic Geueke</p><p><strong>​Entwicklung</strong><br/>Frederic Geueke und Michael ( Deine und Michael’s Firma) </p><p>​</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wVxGhb",
+        "text_DXaaA7"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "rich_text_TidpdJ"
   ]
 }
