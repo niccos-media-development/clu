@@ -11,7 +11,6 @@
   "sections": {
     "custom_liquid_LKDzWk": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "liquid": "<img class=\"clu-animated\" src=\"https://cdn.shopify.com/videos/c/o/v/a5d2d24243d84476b1cb75ac8c3b45e0.mp4\">\n\n<style>\n.clu-animated {\n    max-width: autox;\n    margin-left: auto;\n    margin-right: auto;\n}\n\n@media screen and (min-width: 1920x) {\n    .clu-animated {\n        max-width: 1920px; \n    }\n}\n</style>",
         "color_text": "",
@@ -29,6 +28,7 @@
     },
     "custom_liquid_aAMxit": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "liquid": "<img class=\"clu-animated\" src=\"https://cdn.shopify.com/s/files/1/0735/7874/2045/files/1000x1000px_3D_logo_v2.jpg?v=1743178451\">\n\n<style>\n.clu-animated {\n    max-width: 200px;\n    margin-left: auto;\n    margin-right: auto;\n}\n\n@media screen and (min-width: 768px) {\n    .clu-animated {\n        max-width: 500px; \n    }\n}\n</style>",
         "color_text": "",
