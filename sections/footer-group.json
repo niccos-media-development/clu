@@ -65,6 +65,7 @@
         "column-3",
         "column-4"
       ],
+      "disabled": true,
       "settings": {
         "style": "with-border",
         "columns": 4,
@@ -122,6 +123,7 @@
         "text_hHEF6f",
         "link_list-1"
       ],
+      "disabled": true,
       "custom_css": [
         "@media screen and (min-width: 768px) {.footer__item--text_hHEF6f.details.active {width: 200px; }}"
       ],
@@ -150,6 +152,7 @@
     },
     "footer-copyright": {
       "type": "footer-copyright",
+      "disabled": true,
       "custom_css": [
         ".rte.credits.text-center .flex-wrap {display: none !important;}"
       ],

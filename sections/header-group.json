@@ -125,6 +125,7 @@
       "block_order": [
         "mega_menu_JCCeHF"
       ],
+      "disabled": true,
       "settings": {
         "menu": "clu-navigation",
         "menu_mobile": "",
@@ -148,10 +149,110 @@
         "full_width": true,
         "rounded": true
       }
+    },
+    "empty_space_XbzUMz": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 200,
+        "mobile_height": 28,
+        "color_background": "",
+        "gradient_background": ""
+      }
+    },
+    "scrolling_text_LJhCbh": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text_kWd3aN": {
+          "type": "text",
+          "settings": {
+            "text": "Clu: Media coming soon",
+            "text_size": 160,
+            "text_font": "body",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text_kWd3aN"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 20,
+        "grid_horizontal": 70,
+        "enable_twin": false,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "newsletter_jeTCG8": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_cxGxdx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jetzt für newsletter anmelden und den Lunch nicht verpassen!",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_ARYTYi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die smarte Office Lösung.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "form_VJUqq4": {
+          "type": "form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_cxGxdx",
+        "text_ARYTYi",
+        "form_VJUqq4"
+      ],
+      "settings": {
+        "content_width": "medium",
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "empty_space_XbzUMz",
+    "scrolling_text_LJhCbh",
+    "newsletter_jeTCG8"
   ]
 }
